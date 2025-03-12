@@ -2,7 +2,7 @@
 
 FraudEX is a cutting-edge **real-time fraud detection system** designed to identify and flag suspicious financial transactions using machine learning. The system leverages advanced algorithms to analyze transaction patterns, reduce false positives, and provide actionable insights to financial institutions. Additionally, it integrates **Retell AI** for phone call notifications and **Twilio** for seamless communication.
 
-#PPT: https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FShivamKumar2883%2FFraudEX%2Frefs%2Fheads%2Fmain%2FInfosys_Makeathon6.0_Template.pptx&wdOrigin=BROWSELINK
+#PPT: https://encr.pw/3kPG7
 ---
 
 ## **Key Features**
